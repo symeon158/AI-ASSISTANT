@@ -4,7 +4,9 @@ Welcome to the AI Assistant project, a cutting-edge tool designed to transform t
 
 ## 🎥 Demo Video
 [![Watch the video](https://via.placeholder.com/800x450.png?text=Watch+Video)](https://1drv.ms/v/c/A9927BE78AA24F21/QSFPoorne5IggKkLDwEAAAAAtrJPA-X4h11_mQ))
+> 👉 **Click the image above** to watch the demo video and see how the AI Assistant works.
 
+---
 
 ## 🚀 Key Features
 
