@@ -2,7 +2,7 @@
 
 Welcome to the AI Assistant project, a cutting-edge tool designed to transform the way you engage with data. This AI-powered assistant enhances collaboration between human intelligence and machine learning through Python's robust ecosystem. 
 
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://onedrive.live.com/?cid=A9927BE78AA24F21&id=A9927BE78AA24F21%2170563&parId=root&o=OneUp))
+[![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID](https://onedrive.live.com/?cid=A9927BE78AA24F21&id=A9927BE78AA24F21%2170563&parId=root&o=OneUp))
 
 ## 🚀 Key Features
 
